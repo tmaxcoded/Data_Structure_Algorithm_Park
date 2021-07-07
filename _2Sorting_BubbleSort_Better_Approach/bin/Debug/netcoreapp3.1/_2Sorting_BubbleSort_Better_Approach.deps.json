@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_2Sorting_BubbleSort_Better_Approach/1.0.0": {
+        "runtime": {
+          "_2Sorting_BubbleSort_Better_Approach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_2Sorting_BubbleSort_Better_Approach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

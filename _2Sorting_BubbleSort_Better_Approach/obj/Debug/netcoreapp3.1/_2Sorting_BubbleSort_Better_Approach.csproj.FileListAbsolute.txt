@@ -1,0 +1,13 @@
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\bin\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.exe
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\bin\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.deps.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\bin\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.runtimeconfig.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\bin\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.runtimeconfig.dev.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\bin\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.dll
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\bin\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.pdb
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\obj\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.csprojAssemblyReference.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\obj\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.AssemblyInfoInputs.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\obj\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.AssemblyInfo.cs
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\obj\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.csproj.CoreCompileInputs.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\obj\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.dll
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\obj\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.pdb
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_2Sorting_BubbleSort_Better_Approach\obj\Debug\netcoreapp3.1\_2Sorting_BubbleSort_Better_Approach.genruntimeconfig.cache

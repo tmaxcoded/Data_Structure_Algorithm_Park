@@ -1,0 +1,13 @@
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\bin\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.exe
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\bin\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.deps.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\bin\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.runtimeconfig.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\bin\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.runtimeconfig.dev.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\bin\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.dll
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\bin\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.pdb
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\obj\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.csprojAssemblyReference.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\obj\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.AssemblyInfoInputs.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\obj\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.AssemblyInfo.cs
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\obj\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.csproj.CoreCompileInputs.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\obj\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.dll
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\obj\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.pdb
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_1Sorting_BubbleSort_Worst_Case\obj\Debug\netcoreapp3.1\_1Sorting_BubbleSort_Worst_Case.genruntimeconfig.cache
