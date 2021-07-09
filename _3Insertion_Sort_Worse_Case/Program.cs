@@ -15,6 +15,13 @@ namespace _3Insertion_Sort_Worse_Case
     • Finally, the value is placed into the proper position. In each iteration 
     of the outer loop, the length of the sorted array increase by one. 
     When we exit the outer loop, the whole array is sorted.
+
+    Complexity Analysis:
+    Worst case time complexity O(n2)
+    Best case time complexity O(n)
+    Average case time complexity O(n2)
+    Space Complexity O(1)
+    Stable sorting
      
      */
     class Program

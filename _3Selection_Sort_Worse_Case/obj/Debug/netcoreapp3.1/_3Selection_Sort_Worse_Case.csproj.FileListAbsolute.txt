@@ -1,0 +1,13 @@
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\bin\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.exe
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\bin\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.deps.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\bin\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.runtimeconfig.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\bin\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.runtimeconfig.dev.json
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\bin\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.dll
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\bin\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.pdb
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\obj\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.csprojAssemblyReference.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\obj\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.AssemblyInfoInputs.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\obj\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.AssemblyInfo.cs
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\obj\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.csproj.CoreCompileInputs.cache
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\obj\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.dll
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\obj\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.pdb
+C:\Users\IT ZPC\source\repos\AlgorithmsAndDataStructure\_3Selection_Sort_Worse_Case\obj\Debug\netcoreapp3.1\_3Selection_Sort_Worse_Case.genruntimeconfig.cache

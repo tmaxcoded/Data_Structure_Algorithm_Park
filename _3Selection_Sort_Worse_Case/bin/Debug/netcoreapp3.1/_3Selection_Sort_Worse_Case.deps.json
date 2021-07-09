@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "_3Selection_Sort_Worse_Case/1.0.0": {
+        "runtime": {
+          "_3Selection_Sort_Worse_Case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_3Selection_Sort_Worse_Case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
